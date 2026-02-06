@@ -3,7 +3,7 @@
 
 
 # Clone the Project
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/KanishkaTharuka/Python_Flask_Backend_Project.git
 cd your-repo-name
 
 # Create Virtual Environment
