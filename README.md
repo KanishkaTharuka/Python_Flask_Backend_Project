@@ -1,11 +1,5 @@
 # Python_Flask_Backend_Project
 
-
-
-# Clone the Project
-git clone https://github.com/KanishkaTharuka/Python_Flask_Backend_Project.git
-cd your-repo-name
-
 # Create Virtual Environment
 python -m venv venv
 
