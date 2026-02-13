@@ -13,7 +13,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Run the Project
-python run.py
+python app.py
 
 # API Endpoints (Examples)
 # Register
